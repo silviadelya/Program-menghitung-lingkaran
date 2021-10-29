@@ -19,4 +19,4 @@
 
 <h3>Output :</h3>
 
-![img] screenshot/2.png
+![Gambar 4](screenshot/2.png)
