@@ -11,4 +11,4 @@
 
 <h2>Flowchart Menghitung Luas dan Keliling Lingkaran</h2>
 
-![img] screenshot/3.jpg
+![Gambar 2](screenshot/3.jpg)
