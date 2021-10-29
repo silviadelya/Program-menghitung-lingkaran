@@ -1,5 +1,5 @@
-# Program Python Menghitung Luas dan Keliling Lingkaran
+# Program Menghitung Luas dan Keliling Lingkaran
 
 <h2>Rumus Luas dan Keliling Lingkaran</h2>
 
-![img] screenshot/4.png
+![Gambar 1](screenshot/4.png)
