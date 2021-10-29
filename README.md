@@ -15,7 +15,7 @@
 
 <h2>Program Python Menghitung Luas dan Keliling Lingkaran</h2>
 
-![img] screenshot/1.png
+![Gambar 3](screenshot/1.png)
 
 <h3>Output :</h3>
 
